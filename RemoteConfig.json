@@ -1,0 +1,10 @@
+{
+  "packageName": "classic.retro.nostalgia.nes",
+  "forceUpdate": false,
+  "forceUpdateContent": "GAME is removed on store!\nSupport us and PLAY MORE GAMES\nin new version!",
+  "forceUpdateUrl": "market://details?id=play.retro.emulator.nes",
+  "checkClone": false,
+  "adsNetwork": 0,
+  "adsType": 0,
+  "numberPressToShowAds": 20
+}
