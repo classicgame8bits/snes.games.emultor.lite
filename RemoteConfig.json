@@ -8,5 +8,6 @@
   "adsType": 0,
   "numberPressToShowAds": 20,
   "downloadROMsEnabled": true,
-  "downloadROMsURL": "https://www.facebook.com"
+  "downloadROMsURL": "https://www.facebook.com",
+  "fanpageURL": "https://www.facebook.com"
 }
