@@ -6,5 +6,6 @@
   "checkClone": false,
   "adsNetwork": 0,
   "adsType": 0,
-  "numberPressToShowAds": 20
+  "numberPressToShowAds": 20,
+  "downloadROMsEnabled": true
 }
