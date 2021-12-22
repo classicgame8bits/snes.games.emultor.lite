@@ -12,7 +12,7 @@
   "fanpageURL": "",
   "showNewGames": true,
   "newGames": {
-      "name": "NES Games",
+      "title": "NES Games",
       "content": "NES Emulator and all Games is ready! Download now!",
       "imgUrl": "",
       "downloadUrl": "market://details?id=nes.retro.nostalgia"
