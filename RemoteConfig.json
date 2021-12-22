@@ -1,13 +1,21 @@
 {
-  "packageName": "retro.emulator.game.collection",
+  "packageName": "snes.games.emultor.lite",
   "forceUpdate": false,
   "forceUpdateContent": "GAME is removed on store!\nSupport us and PLAY MORE GAMES\nin new version!",
-  "forceUpdateUrl": "market://details?id=retro.emulator.game.collection",
+  "forceUpdateUrl": "market://details?id=EMPTY",
   "checkClone": false,
   "adsNetwork": 0,
   "adsType": 0,
   "numberPressToShowAds": 20,
-  "downloadROMsEnabled": false,
-  "downloadROMsURL": "https://drive.google.com/drive/folders/1QlPECRHF0LvotkrfS8kbAr6M5LY1omtn",
-  "fanpageURL": "https://www.facebook.com/superretroemulator"
+  "downloadROMsEnabled": true,
+  "downloadROMsURL": "https://www.romsgames.net/roms/super-nintendo/",
+  "fanpageURL": "",
+  "showNewGames": false,
+  "newGames": [
+    {
+      "name": "",
+      "imgUrl": "",
+      "downloadUrl": "market://details?id=nes.retro.nostalgia"
+    }
+  ]
 }
