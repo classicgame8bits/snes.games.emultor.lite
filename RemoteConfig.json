@@ -10,12 +10,11 @@
   "downloadROMsEnabled": true,
   "downloadROMsURL": "https://www.romsgames.net/roms/super-nintendo/",
   "fanpageURL": "",
-  "showNewGames": false,
-  "newGames": [
-    {
-      "name": "",
+  "showNewGames": true,
+  "newGames": {
+      "name": "NES Games",
+      "content": "NES Emulator and all Games is ready! Download now!",
       "imgUrl": "",
       "downloadUrl": "market://details?id=nes.retro.nostalgia"
     }
-  ]
 }
