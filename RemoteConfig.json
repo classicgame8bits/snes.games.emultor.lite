@@ -1,6 +1,6 @@
 {
   "packageName": "snes.games.emultor.lite",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "forceUpdateContent": "GAME is removed on store!\nSupport us and PLAY MORE GAMES\nin new version!",
   "forceUpdateUrl": "market://details?id=EMPTY",
   "checkClone": false,
