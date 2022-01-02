@@ -7,7 +7,7 @@
   "adsNetwork": 0,
   "adsType": 0,
   "numberPressToShowAds": 20,
-  "downloadROMsEnabled": false,
+  "downloadROMsEnabled": true,
   "downloadROMsURL": "https://www.romsgames.net/roms/super-nintendo/",
   "fanpageURL": "",
   "showNewGames": false,
